@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Shivanshx4/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Shivanshx4/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shivanshx4/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Shivanshx4/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
